@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'verify',
     'rest_framework',
-    'checker',
 ]
 
 MIDDLEWARE = [
